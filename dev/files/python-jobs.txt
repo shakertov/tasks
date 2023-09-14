@@ -1,0 +1,42 @@
+
+List of Python vacancies
+
+Vacancy: Senior Python Developer
+URL: https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html
+
+
+Vacancy: Software Engineer (Python)
+URL: https://realpython.github.io/fake-jobs/jobs/software-engineer-python-10.html
+
+
+Vacancy: Python Programmer (Entry-Level)
+URL: https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-20.html
+
+
+Vacancy: Python Programmer (Entry-Level)
+URL: https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-30.html
+
+
+Vacancy: Software Developer (Python)
+URL: https://realpython.github.io/fake-jobs/jobs/software-developer-python-40.html
+
+
+Vacancy: Python Developer
+URL: https://realpython.github.io/fake-jobs/jobs/python-developer-50.html
+
+
+Vacancy: Back-End Web Developer (Python, Django)
+URL: https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-60.html
+
+
+Vacancy: Back-End Web Developer (Python, Django)
+URL: https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-70.html
+
+
+Vacancy: Python Programmer (Entry-Level)
+URL: https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-80.html
+
+
+Vacancy: Software Developer (Python)
+URL: https://realpython.github.io/fake-jobs/jobs/software-developer-python-90.html
+
