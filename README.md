@@ -18,4 +18,4 @@
 Имеются файлы .docx, в которых описан ход решения с составлением функциональных диаграмм.
 
 Пример 1.
-![Внешний вид](https://github.com/shakertov/tasks/university/1.png)
+![Внешний вид](https://github.com/shakertov/tasks/blob/main/university/1.png)
